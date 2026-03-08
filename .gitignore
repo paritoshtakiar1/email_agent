@@ -1,0 +1,29 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Local credentials and tokens
+credentials.json
+token.json
+
+# Local databases/state
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# IDE/system noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

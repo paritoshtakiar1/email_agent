@@ -1,0 +1,30 @@
+{
+  "19cbb1dbd97c7583": {
+    "followup_stage": 0,
+    "sequence_paused": false,
+    "last_processed": "2026-03-06T22:40:47.909753",
+    "reply_category": "neutral",
+    "lead_state": "closed"
+  },
+  "19cb53ff3bc78483": {
+    "followup_stage": 0,
+    "sequence_paused": true,
+    "last_processed": "2026-03-06T22:40:53.822441",
+    "reply_category": "requesting_more_info",
+    "lead_state": "warm"
+  },
+  "19cb542751d76e80": {
+    "followup_stage": 1,
+    "sequence_paused": false,
+    "last_processed": "2026-03-06T22:40:53.988718",
+    "reply_category": "neutral",
+    "lead_state": "cold"
+  },
+  "19cb540c94f7dc1e": {
+    "followup_stage": 1,
+    "sequence_paused": false,
+    "last_processed": "2026-03-06T22:40:54.155371",
+    "reply_category": "neutral",
+    "lead_state": "cold"
+  }
+}
